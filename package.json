@@ -1,0 +1,22 @@
+{
+  "name": "git-website",
+  "version": "1.0.0",
+  "description": "My Website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheKing990/TheKing990.github.io.git"
+  },
+  "author": "Jhovany Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheKing990/TheKing990.github.io/issues"
+  },
+  "homepage": "https://github.com/TheKing990/TheKing990.github.io#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
